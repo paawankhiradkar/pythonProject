@@ -1,0 +1,28 @@
+Requester Name: 	Christer Lehtinen
+Requester Email: 	christer.lehtinen@hitachivantara.com
+Department:	CS&S 
+Customer Name:	Polismyndigheten AB
+Country:	Sweden
+Purpose :	Production
+Package Type: 	foundation 
+Setup Details:	New
+License Type: 	Commercial 
+Order Ids:	25004485                                                   
+License Start Date:	11-Jan-2021
+Nodes: 
+Additional Units : 	    (25 nodes/unit) 
+Storage System Details: 
+Model	Serial Number	Capacity (TB)
+Hitachi VSP G200	451949	Unlimited
+Hitachi VSP G200	451981	Unlimited
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+

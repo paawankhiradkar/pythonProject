@@ -1,0 +1,27 @@
+Requester Name: 	ARUN VENU C
+Requester Email: 	arun.c@hitachivantara.com
+Department:	GDDC Hyderabad 
+Customer Name:	ICICI Bank
+Country:	India
+Purpose :	NEW INSTALLATION
+Package Type: 	foundation 
+Setup Details:	New
+License Type: 	Commercial 
+Order Ids:	03283517                                                   
+License Start Date:	
+Nodes: 
+Additional Units : 	    (25 nodes/unit) 
+Storage System Details: 
+Model	Serial Number	Capacity (TB)
+Hitachi VSP F700	448362	Unlimited
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+

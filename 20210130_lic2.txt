@@ -1,0 +1,27 @@
+Requester Name: 	Mark Bankey
+Requester Email: 	mark.bankey@hitachivantara.com
+Department:	Federal Solutions Consultant 
+Customer Name:	US Government
+Country:	United States
+Purpose :	Array License
+Package Type: 	hpa 
+Setup Details:	Existing
+License Type: 	Commercial 
+Order Ids:	1814843                                                   
+License Start Date:	
+Nodes: 
+Additional Units : 	    (25 nodes/unit) 
+Storage System Details: 
+Model	Serial Number	Capacity (TB)
+Hitachi VSP G1500	56857	Unlimited
+Hitachi VSP G1500	57455	Unlimited
+		
+		
+		
+		
+		
+		
+		
+		
+	
+

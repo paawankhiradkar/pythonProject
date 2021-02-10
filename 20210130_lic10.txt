@@ -1,0 +1,27 @@
+Requester Name: 	Bob Warfsman
+Requester Email: 	Bob.Warfsman@hitachivantara.com
+Department:	
+Customer Name:	Wall Industries
+Country:	United States
+Purpose :	Hitachi Analzyer View
+Package Type: 	foundation 
+Setup Details:	New
+License Type: 	Commercial 
+Order Ids:	1701232                                                   
+License Start Date:	06-Jan-2021
+Nodes: 
+Additional Units : 	    (25 nodes/unit) 
+Storage System Details: 
+Model	Serial Number	Capacity (TB)
+Hitachi VSP 5100	33180	Unlimited
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+

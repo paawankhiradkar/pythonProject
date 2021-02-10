@@ -1,0 +1,27 @@
+Requester Name: 	Vu Nguyen Quang
+Requester Email: 	vu.nguyen@hitachivantara.com
+Department:	CSS 
+Customer Name:	VNPT IT
+Country:	Viet Nam
+Purpose :	Licenses for HDCA
+Package Type: 	foundation 
+Setup Details:	New
+License Type: 	Commercial 
+Order Ids:	4832541-1                                                   
+License Start Date:	07-Jan-2021
+Nodes: 
+Additional Units : 	    (25 nodes/unit) 
+Storage System Details: 
+Model	Serial Number	Capacity (TB)
+Hitachi VSP G370	484854	Unlimited
+Hitachi VSP G370	484728	Unlimited
+		
+		
+		
+		
+		
+		
+		
+		
+	
+

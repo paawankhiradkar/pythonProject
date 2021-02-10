@@ -1,0 +1,27 @@
+Requester Name: 	Ivan Alvarez
+Requester Email: 	ivan.alvarez@hitachivantara.com
+Department:	Global Delivery 
+Customer Name:	Hitachi Vantara
+Country:	Switzerland
+Purpose :	Long term/Lab purpose
+Package Type: 	hpa 
+Setup Details:	New
+License Type: 	Trial 
+Order Ids:	                                                  
+License Start Date:	28-Jan-2021
+Nodes: 
+Additional Units : 	    (25 nodes/unit) 
+Storage System Details: 
+Model	Serial Number	Capacity (TB)
+Hitachi VSP G1000	50679	Unlimited
+Hitachi VSP G1000	58068	Unlimited
+		
+		
+		
+		
+		
+		
+		
+		
+	
+

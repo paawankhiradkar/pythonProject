@@ -1,0 +1,28 @@
+Requester Name: 	Pedro Munoz
+Requester Email: 	pedro.munozibarcena@hitachivantara.com
+Department:	Solution Consultant 
+Customer Name:	Banco Familiar 
+Country:	Paraguay
+Purpose :	Production environment
+Package Type: 	foundation 
+Setup Details:	Existing
+License Type: 	Commercial 
+Order Ids:	275039                                                   
+License Start Date:	07-Jan-2021
+Nodes: 
+Additional Units : 	    (25 nodes/unit) 
+Storage System Details: 
+Model	Serial Number	Capacity (TB)
+Hitachi VSP G350	453173	Unlimited
+Hitachi VSP G350	453178	Unlimited
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+

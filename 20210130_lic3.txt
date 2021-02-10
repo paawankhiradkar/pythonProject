@@ -1,0 +1,27 @@
+Requester Name: 	Cristian Smith
+Requester Email: 	cristian.smith@hitachivantara.com
+Department:	Global Delivery 
+Customer Name:	PAE
+Country:	Argentina
+Purpose :	New Install 
+Package Type: 	hpa 
+Setup Details:	New
+License Type: 	Commercial 
+Order Ids:	20271646                                                   
+License Start Date:	28-Jan-2021
+Nodes: 
+Additional Units : 	1    (25 nodes/unit) 
+Storage System Details: 
+Model	Serial Number	Capacity (TB)
+Hitachi VSP G900	446230	Unlimited
+Hitachi HUS VM	240188	Unlimited
+Hitachi VSP G200	452755	Unlimited
+		
+		
+		
+		
+		
+		
+		
+	
+
